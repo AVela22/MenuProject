@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>Selección de Menú Básico</title>
+    <link rel="stylesheet" href="styles/css.css">
+
 </head>
 <body>
     <h1>Menú de Opciones multiples</h1>
